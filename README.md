@@ -1,2 +1,2 @@
 # PowerBI
-![Portfolio Dashboard]_(Chocolate Analytics Dashboard Screenshot.png)
+![Portfolio Dashboard](Chocolate Analytics Dashboard Screenshot.png)
